@@ -288,3 +288,5 @@ data.events = [{
   "description": "Put your food-chain heirarchy to the test in this extreme adventure where you are pitted against a real-life dinosaur! Do you have what it takes to send this once-dominate species back to the Jurassic period?",
   "price": 10000000
 }]
+
+export default data
