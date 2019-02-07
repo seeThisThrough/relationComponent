@@ -1,5 +1,5 @@
 {
-  "name": "gutsy-relations",
+  "name": "relational-component",
   "version": "1.0.0",
   "description": "gutsy-relational component",
   "main": "index.js",
@@ -27,5 +27,13 @@
     "babel-loader": "^8.0.5",
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microdynamicservices/relationComponent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/microdynamicservices/relationComponent/issues"
+  },
+  "homepage": "https://github.com/microdynamicservices/relationComponent#readme"
 }
