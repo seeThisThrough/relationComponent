@@ -1,4 +1,3 @@
-let Promise = require('bluebird')
 let express = require('express')
 let bodyParse = require('body-parser')
 let db = require('../database/index')
@@ -7,8 +6,6 @@ let db = require('../database/index')
 let app = express()
 let port = process.env.port || 3003
 
-
-Promise.promisify(app)
 
 app.use(bodyParse.json())
 app.use(express.static(__dirname + '/../client/dist'))
