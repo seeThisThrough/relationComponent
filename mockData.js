@@ -503,7 +503,7 @@ data.events = [{
   "catagory": "hobby",
   "image_URL": "https://s3-us-west-1.amazonaws.com/adventure-pictures/tournament_paintball.jpeg",
   "description": "Paintball is a modern, quickly evolving adrenalin sport, which requires more than just strength, speed, agility and a good physical condition. During a paintball game, you will need a fair deal of tactical thinking while staying coolheaded. There are numerous varieties of paintball, but what is common for all of them is two teams competing against each other. When it comes to equipment, paintball weapons vaguely resemble real guns and pistols, but they function on the concept of compressed air or carbon dioxide.",
-  "price": 'Number'
+  "price": 500
 }, {
   "id": 76,
   "title": "Zorbing",
